@@ -1,14 +1,12 @@
 # clojure-skeleton
 
-A Leiningen template for FIXME.
+A Leiningen template for Clojure projects using component, timbre and immuconf.
 
 ## Usage
 
-FIXME
+Clone it, run lein install, then lein new clojure-skeleton my-project-name
 
 ## License
 
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the EPL v1.0 (same as Clojure).
+Copyright © David O'Keeffe 2016
